@@ -1,0 +1,35 @@
+body
+{
+    background-color: darkcyan;
+}
+
+#sketch
+{
+    float: right;
+}
+h1
+{
+    color: aliceblue;
+}
+#label
+{
+    font-size: large;
+    color: aliceblue;
+}
+#confidence
+{
+    font-size: large;
+    color: aliceblue;
+}
+#scores
+{
+ float: left;
+ font-size: 50px;
+ color: aliceblue;
+}
+#timer
+{
+    float: right;
+    font-size: 50px;
+    color: aliceblue;
+}
